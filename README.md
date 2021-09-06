@@ -6,3 +6,6 @@
 <img src="https://user-images.githubusercontent.com/79039863/128346467-d8682cec-bd51-4fcc-9616-aea7a6d3fcd6.png" width=50>
 
 好きなアプリはポモドーロタイマーです🍅
+
+自作ポモドーロタイマーの制作過程  
+https://qiita.com/Toshihiro_Watanabe_/private/095f796b395f752c56ca
